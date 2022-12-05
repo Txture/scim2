@@ -50,9 +50,9 @@ import org.glassfish.jersey.test.JerseyTestNg;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import javax.ws.rs.core.Application;
-import javax.ws.rs.core.HttpHeaders;
-import javax.ws.rs.core.UriBuilder;
+import jakarta.ws.rs.core.Application;
+import jakarta.ws.rs.core.HttpHeaders;
+import jakarta.ws.rs.core.UriBuilder;
 import java.net.URI;
 import java.util.Collections;
 import java.util.List;
