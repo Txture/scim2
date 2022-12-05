@@ -19,7 +19,7 @@ package com.unboundid.scim2.server;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.node.TextNode;
-import com.fasterxml.jackson.jakarta.rs.cfg.JaxRSFeature;
+import com.fasterxml.jackson.jakarta.rs.cfg.JakartaRSFeature;
 import com.fasterxml.jackson.jakarta.rs.json.JacksonJsonProvider;
 import com.google.common.collect.Lists;
 import com.unboundid.scim2.client.ScimInterface;
