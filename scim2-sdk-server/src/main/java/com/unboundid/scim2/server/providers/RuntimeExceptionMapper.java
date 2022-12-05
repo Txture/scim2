@@ -28,7 +28,7 @@ import jakarta.ws.rs.core.NoContentException;
 import jakarta.ws.rs.core.Request;
 import jakarta.ws.rs.core.Response;
 import jakarta.ws.rs.ext.ExceptionMapper;
-import jajakartavax.ws.rs.ext.Provider;
+import jakarta.ws.rs.ext.Provider;
 
 /**
  * A JAX-RS ExceptionMapper for to convert standard WebApplicationExceptions to
